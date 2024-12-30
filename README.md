@@ -2,7 +2,7 @@
 - 👀 I’m interested in working in the area of programming
 - 🌱 I’m currently learning SQL, Multimidia
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by costamluis
+- 📫 You can reach me by luiscosta.developer@gmail.com
 - 😄 Pronouns: Luis
 - ⚡ Fun fact: ...
 
