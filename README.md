@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @LuisMSCosta1971
+- 👋 Hi, I’m Luis Costa
 - 👀 I’m interested in working in the area of programming. HTML, CSS, JavaScript, Front-end.
 
 - 🌱 I’m currently learning SQL, Multimidia
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by luiscosta.developer@gmail.com
-- 😄 Pronouns: Luis
-- ⚡ Fun fact: ...
 
 <!---
 LuisMSCosta1971/LuisMSCosta1971 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
