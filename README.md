@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LuisMSCosta1971
-- 👀 I’m interested in working in the area of programming
+- 👀 I’m interested in working in the area of programming. HTML, CSS, JavaScript, Front-end.
+
 - 🌱 I’m currently learning SQL, Multimidia
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by luiscosta.developer@gmail.com
