@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luis Costa
 - 👀 I’m interested in working in the area of programming. HTML, CSS, JavaScript, Front-end.
 
-- 🌱 I’m currently learning SQL, Multimidia
+- 🌱 I’m currently learning C, SQL, Multimidia
 - 📫 You can reach me by luiscosta.developer@gmail.com
 
 <!---
